@@ -4,3 +4,6 @@ fetching update on remote or some one can commit changes on same code
 
 git pull command 
 make fetch and merge operation in single commnd
+
+
+changes in feature branch
