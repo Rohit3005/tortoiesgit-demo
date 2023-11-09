@@ -1,0 +1,18 @@
+
+working on feature branch but somthing is happend like bug come in main branch 
+before commit your current code then fix that bug berfore that you need to save your 
+current code as a satch in your local repo
+
+by using git -stash cmmand
+
+after that switch to main brnach and fix that bug and commit the chnages 
+and push the code to main branch and agian your current work is going on
+you need to get stash up --. using tortoiesGit 
+
+and working on current branch agin
+
+-----------------------------------------
+
+after fixing the bug you need to agin come with your working branch
+get stash pop and complete the work with curentworking branch and commit and push 
+your changes in current branch.
